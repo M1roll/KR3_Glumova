@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|solutionrelative:2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\KR1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|solutionrelative:KR1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{958A0DE9-B091-4EE4-8C6A-B14BE542A396}|KR1.vcxproj|solutionrelative:3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.cpp",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\3.cpp",
+              "RelativeDocumentMoniker": "3.cpp",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\3.cpp",
+              "RelativeToolTip": "3.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T23:43:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.cpp",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\2.cpp",
+              "RelativeDocumentMoniker": "2.cpp",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\2.cpp",
+              "RelativeToolTip": "2.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T11:50:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KR1.cpp",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\KR1.cpp",
+              "RelativeDocumentMoniker": "KR1.cpp",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Community\\Progects\\KR1\\KR1.cpp",
+              "RelativeToolTip": "KR1.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T10:17:22.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
